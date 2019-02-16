@@ -1,0 +1,44 @@
+
+.contenedor {
+  background: url(../img/bg.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+}
+
+.header img {
+  border-radius: 10px;
+}
+
+div.transbox {
+  background-color: rgba(192,192,192,0.40);
+  color: white;
+  width: 77%;
+  margin-left: 9%;
+  margin-right: 9%;
+}
+
+.line {
+  border: 2px solid red;
+}
+
+.header {
+  margin-top: 3%;
+}
+
+.header-text {
+  margin-top: 10%;
+}
+
+.img-float {
+  float: left;
+  margin-right: 10px;
+  margin-top: 20px;
+}
+
+.margenes {
+  margin-left: 10px;
+  margin-right: 10px;
+}

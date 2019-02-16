@@ -1,0 +1,79 @@
+
+.contenedor {
+  background: url(../img/bg.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 80%;
+  height: 100%;
+  margin-left: 10%;
+}
+
+div.transbox {
+  background-color: rgba(192,192,192, 0.50);
+  color: white;
+  width: 80%;
+  margin-left: 10%;
+}
+
+.header-text {
+  margin-top: 15px;
+  border-right: 1px solid white;
+}
+
+.left-text {
+  text-align: right;
+  font-style: oblique;
+}
+
+#search-fld {
+  height: 42px;
+}
+
+.panel-left {
+  background-color: rgba(0,0,0,0.85);
+  padding-top: 5%;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-top: 5%;
+  border-radius: 5px;
+}
+
+.panel-right {
+  margin-top: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
+  background-color: rgba(255, 109, 0, 0.9);
+  padding-bottom: 2px;
+  border-radius: 5px;
+}
+
+.line-blank {
+    border-bottom: solid 1px white;
+}
+
+.panel-left div a {
+  width: 100%;
+}
+
+.red-txt {
+  color: rgba(180,0,0,1);
+}
+
+.space-top-fav {
+  margin-top: 15px;
+}
+
+.text-area {
+  resize: none;
+  overflow: hidden;
+}
+
+.square-comments {
+  border: 1px solid white;
+  color: grey;
+  size: 3px;
+  border-radius: 5px;
+  padding-top: 15px;
+}
